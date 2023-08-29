@@ -6696,9 +6696,11 @@ Starlark:
   - BUILD
   - BUILD.bazel
   - MODULE.bazel
+  - REPO.bazel
   - Tiltfile
   - WORKSPACE
   - WORKSPACE.bazel
+  - WORKSPACE.bzlmod
   aliases:
   - bazel
   - bzl

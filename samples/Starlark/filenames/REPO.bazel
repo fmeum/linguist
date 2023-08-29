@@ -1,0 +1,4 @@
+repo(
+    default_visibility = ["//visibility:public"],
+    features = ["static_link_cpp_runtimes"],
+)
